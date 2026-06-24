@@ -1,0 +1,27 @@
+{
+  "name": "Yue Li",
+  "nameCn": "李越",
+  "title": "Postdoctoral Research Fellow",
+  "affiliation": "Nanyang Technological University",
+  "affiliationCn": "南洋理工大学",
+  "location": "Singapore",
+  "tagline": "Using AI to tackle the complex problems of low-dimensional materials.",
+  "email": "yueli@ntu.edu.sg",
+  "emails": ["yueli@ntu.edu.sg", "liyue2341@pku.edu.cn"],
+  "links": {
+    "scholar": "https://scholar.google.com/citations?user=kbTiQPUAAAAJ",
+    "github": "https://github.com/Liyue2341",
+    "research": "https://research.sciscale.org",
+    "orcid": ""
+  },
+  "bio": [
+    "Hi! I'm Yue Li (李越). I am a postdoctoral research fellow at Nanyang Technological University, working with <a href=\"https://personal.ntu.edu.sg/z.liu/\" target=\"_blank\" rel=\"noopener noreferrer\">Prof. Zheng Liu</a>. I obtained my Ph.D. in Physics from Peking University, advised by <a href=\"http://jinzhanggroup.pku.edu.cn/\" target=\"_blank\" rel=\"noopener noreferrer\">Prof. Jin Zhang</a> and Prof. Ziqiang Zhao.",
+    "My research uses AI to tackle the complex problems of <strong>low-dimensional materials</strong>, from carbon nanotubes to graphene and other 2D systems. I develop ML models and automation frameworks that run from holistic design, through experimentation, to <strong>mechanism extraction</strong>.",
+    "Lately I'm interested in <strong>loop engineering for science agents</strong>, letting an agent correct itself through trial and error, so that over time it builds up something like a human expert's accumulated intuition.",
+    "The longer vision: a materials-research process compiled like a program, so that new science can emerge from it."
+  ],
+  "stats": {
+    "publications": 19,
+    "citations": 150
+  }
+}

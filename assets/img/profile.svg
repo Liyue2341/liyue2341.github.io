@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-label="Yue Li">
+  <style>
+    .bg { fill: #f1ede4; }
+    .mono { fill: #8c2f39; font-family: "IBM Plex Serif", Georgia, serif; font-weight: 600; }
+    .cn { fill: #8f897c; font-family: "IBM Plex Mono", ui-monospace, monospace; }
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #221d16; }
+      .mono { fill: #e8909a; }
+      .cn { fill: #7d766a; }
+    }
+  </style>
+  <rect class="bg" width="320" height="320"/>
+  <text class="mono" x="160" y="172" text-anchor="middle" font-size="118">YL</text>
+  <text class="cn" x="160" y="226" text-anchor="middle" font-size="20" letter-spacing="6">李 越</text>
+</svg>

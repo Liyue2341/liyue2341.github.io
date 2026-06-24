@@ -1,0 +1,30 @@
+[
+  {
+    "name": "SkillPop",
+    "description": "Scan, sync & share AI agent skills across every platform — from one local dashboard. Works with Claude Code, Codex, Gemini CLI, and more.",
+    "url": "https://github.com/Liyue2341/SkillPop",
+    "language": "Python",
+    "tags": ["AI agents", "developer tools", "open standard"]
+  },
+  {
+    "name": "claude-scientific-skills",
+    "description": "170+ ready-to-use AI agent skills for research, science, engineering, and analysis. Covers 250+ databases and 60+ scientific Python packages.",
+    "url": "https://github.com/Liyue2341/claude-scientific-skills",
+    "language": "Python",
+    "tags": ["AI", "scientific computing", "agent skills"]
+  },
+  {
+    "name": "gemini-exporter",
+    "description": "Automated bulk export of Google Gemini conversation history to individual JSON files using Playwright and browser automation.",
+    "url": "https://github.com/Liyue2341/gemini-exporter",
+    "language": "Python",
+    "tags": ["automation", "data export"]
+  },
+  {
+    "name": "SnapBack",
+    "description": "Save & restore your entire Windows desktop session with one command — GUI apps, terminal processes, Claude Code instances, and Explorer windows.",
+    "url": "https://github.com/Liyue2341/SnapBack",
+    "language": "PowerShell",
+    "tags": ["productivity", "Windows", "automation"]
+  }
+]

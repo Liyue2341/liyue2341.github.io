@@ -1,0 +1,324 @@
+[
+  {
+    "title": "Artificial Intelligence for Materials Science: Transforming Research Paradigms",
+    "image": "assets/img/pubs/chemrev-2026.png",
+    "authors": "Yue Li, Shurui Wang, Jianping Wang, Liu Qian*, Jin Zhang*",
+    "journal": "Chemical Reviews",
+    "year": 2026,
+    "volume": "126(11)",
+    "pages": "6776-6803",
+    "doi": "10.1021/acs.chemrev.6c00012",
+    "url": "https://pubs.acs.org/doi/10.1021/acs.chemrev.6c00012",
+    "citations": 0,
+    "highlight": true,
+    "tags": [
+      "AI",
+      "materials science",
+      "review"
+    ]
+  },
+  {
+    "title": "A self-evolving agent for explainable diagnosis of DFT-experiment band-gap mismatch",
+    "image": "assets/img/pubs/dft-agent-2026.png",
+    "authors": "Yue Li, Bijun Tang",
+    "journal": "arXiv",
+    "year": 2026,
+    "arxiv": "2604.26703",
+    "url": "https://arxiv.org/abs/2604.26703",
+    "pdf": "https://arxiv.org/pdf/2604.26703",
+    "citations": 0,
+    "highlight": true,
+    "tags": [
+      "AI",
+      "DFT",
+      "agent"
+    ]
+  },
+  {
+    "title": "Beyond Beryllium: AI-Accelerated Materials Discovery for Interstellar Spacecraft Shielding",
+    "authors": "Yue Li, Xu Pan, Kaiyuan Guo",
+    "journal": "arXiv",
+    "year": 2026,
+    "arxiv": "2604.00571",
+    "url": "https://arxiv.org/abs/2604.00571",
+    "pdf": "https://arxiv.org/pdf/2604.00571",
+    "citations": 0,
+    "tags": [
+      "AI",
+      "materials discovery",
+      "🎭 April Fools'"
+    ],
+    "image": "assets/img/pubs/beryllium-2026.png"
+  },
+  {
+    "title": "A non-equilibrium strategy for the general synthesis of single-atom catalysts",
+    "authors": "Yue Li*, Yang Xu, Yunbiao Zhao, Mingwei Cui, Xiner Chen, Liu Qian, Jin Zhang, Xueting Feng, Ziqiang Zhao",
+    "journal": "arXiv",
+    "year": 2026,
+    "arxiv": "2601.12477",
+    "url": "https://arxiv.org/abs/2601.12477",
+    "pdf": "https://arxiv.org/pdf/2601.12477",
+    "citations": 0,
+    "tags": [
+      "catalyst",
+      "ion implantation"
+    ],
+    "image": "assets/img/pubs/single-atom-2026.png"
+  },
+  {
+    "title": "Transforming the synthesis of carbon nanotubes with machine learning models and automation",
+    "image": "assets/img/pubs/matter-2025.png",
+    "authors": "Yue Li, Shurui Wang, Zhou Lv, Zhaoji Wang, Yunbiao Zhao, Ying Xie, Yang Xu, Liu Qian*, Yaodong Yang*, Ziqiang Zhao*, Jin Zhang*",
+    "journal": "Matter",
+    "year": 2025,
+    "volume": "8(1)",
+    "doi": "10.1016/j.matt.2024.11.007",
+    "url": "https://www.cell.com/matter/abstract/S2590-2385%2824%2900582-4",
+    "pdf": "assets/pdf/li2025-matter.pdf",
+    "citations": 50,
+    "highlight": true,
+    "tags": [
+      "AI",
+      "CNT",
+      "automation"
+    ]
+  },
+  {
+    "title": "Nano-seeding catalysts for high-density arrays of horizontally aligned carbon nanotubes with wafer-scale uniformity",
+    "image": "assets/img/pubs/natcommun-2025.png",
+    "authors": "**Ying Xie**, **Yue Li**, **Zhisheng Peng**, Chengyu Wang, Zanlin Qiu, Xinyi Cai, Tinglu Song, Jia Si, Xiaoxu Zhao, Liu Qian*, Ziqiang Zhao*, Jin Zhang*",
+    "journal": "Nature Communications",
+    "year": 2025,
+    "volume": "16",
+    "pages": "149",
+    "doi": "10.1038/s41467-024-55515-0",
+    "url": "https://www.nature.com/articles/s41467-024-55515-0",
+    "pdf": "assets/pdf/xie2025-nat-commun.pdf",
+    "citations": 17,
+    "highlight": true,
+    "tags": [
+      "CNT",
+      "catalyst",
+      "wafer-scale"
+    ]
+  },
+  {
+    "title": "Electric-Field-Assisted PECVD for Growth of High-Purity Horizontally Aligned Semiconducting Carbon Nanotube Arrays",
+    "authors": "Mingzhi Zou, Zhisheng Peng, Yue Li, Pai Li, Mingwei Cui, Zhe Liu, Liu Qian*, Jin Zhang*",
+    "journal": "Advanced Functional Materials",
+    "year": 2025,
+    "pages": "2504150",
+    "doi": "10.1002/adfm.202504150",
+    "url": "https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202504150",
+    "citations": 8,
+    "tags": [
+      "CNT",
+      "CVD"
+    ],
+    "image": "assets/img/pubs/adv-funct-2025.png",
+    "pdf": "assets/pdf/zou2025-adv-funct-mater.pdf"
+  },
+  {
+    "title": "Ion implantation-driven high-quality graphene growth on insulating substrates with catalyst spatial confinement",
+    "authors": "Yang Xu, Yue Li, Liu Qian, Shurui Wang, Yunbiao Zhao*, Ziqiang Zhao*",
+    "journal": "Carbon",
+    "year": 2025,
+    "volume": "238",
+    "pages": "120183",
+    "doi": "10.1016/j.carbon.2025.120183",
+    "url": "https://www.sciencedirect.com/science/article/pii/S000862232500199X",
+    "pdf": "assets/pdf/xu2025-carbon.pdf",
+    "citations": 3,
+    "tags": [
+      "graphene",
+      "ion implantation"
+    ],
+    "image": "assets/img/pubs/carbon-2025.png"
+  },
+  {
+    "title": "Artificial Intelligence-Enabled Holistic Design of Catalysts Tailored for Semiconducting Carbon Nanotube Growth",
+    "image": "assets/img/pubs/ai-catalyst-2025.png",
+    "authors": "**Liu Qian***, **Yue Li**, Ying Xie, Jian Zhang, Pai Li, Yue Yu, Zhe Liu, Feng Ding, Jin Zhang*",
+    "journal": "arXiv",
+    "year": 2025,
+    "arxiv": "2512.16151",
+    "url": "https://arxiv.org/abs/2512.16151",
+    "pdf": "https://arxiv.org/pdf/2512.16151",
+    "citations": 0,
+    "highlight": true,
+    "tags": [
+      "AI",
+      "CNT",
+      "catalyst"
+    ]
+  },
+  {
+    "title": "Triggering Lattice Oxygen Release for Semiconducting Carbon Nanotube Array Synthesis",
+    "authors": "Zhe Liu, Hao Li, Zhisheng Peng, Mingzhi Zou, Zhenghang Yu, Yue Li, Zanlin Qiu, Xiucai Sun, Liu Qian*, Jin Zhang*",
+    "journal": "Journal of the American Chemical Society",
+    "year": 2025,
+    "volume": "147(36)",
+    "pages": "32752-32760",
+    "doi": "10.1021/jacs.5c08656",
+    "url": "https://pubs.acs.org/doi/abs/10.1021/jacs.5c08656",
+    "pdf": "assets/pdf/liu2025-jacs.pdf",
+    "citations": 1,
+    "tags": [
+      "CNT",
+      "synthesis"
+    ],
+    "image": "assets/img/pubs/jacs-2025.png"
+  },
+  {
+    "title": "Subsurface Vacancy Engineering Enables Atomically Clean and Oxidation-Resistant Copper Interfaces for Anode-Free Lithium Metal Batteries",
+    "authors": "Yue Li, Xuanguang Ren, Xueting Feng, Lingcheng Kong, Fengping Luo, Yang Xu, Liu Qian, Yusheng Ye*, Ziqiang Zhao*, Xin Gao*, Jin Zhang*",
+    "journal": "ACS Nano",
+    "year": 2026,
+    "doi": "10.1021/acsnano.6c02968",
+    "url": "https://pubs.acs.org/doi/10.1021/acsnano.6c02968",
+    "pdf": "assets/pdf/li2026-acs-nano.pdf",
+    "citations": 0,
+    "tags": [
+      "ion implantation",
+      "battery"
+    ],
+    "image": "assets/img/pubs/battery-2025.png"
+  },
+  {
+    "title": "Calibrated absolute optical contrast for high-throughput characterization of horizontally aligned carbon nanotube arrays",
+    "authors": "Yue Li, Ying Xie, Jianping Wang, Yang Xu, Shurui Wang, Yunbiao Zhao, Liu Qian*, Ziqiang Zhao*, Jin Zhang*",
+    "journal": "Nano Today",
+    "year": 2024,
+    "volume": "59",
+    "pages": "102502",
+    "doi": "10.1016/j.nantod.2024.102502",
+    "url": "https://www.sciencedirect.com/science/article/pii/S174801322400358X",
+    "pdf": "assets/pdf/li2024-nano-today.pdf",
+    "citations": 1,
+    "highlight": true,
+    "tags": [
+      "CNT",
+      "characterization"
+    ],
+    "image": "assets/img/pubs/nano-today-2024.png"
+  },
+  {
+    "title": "Pave the way to the batch production of SWNT arrays for carbon-based electronic devices",
+    "authors": "Ying Xie, Yue Li, Ziqiang Zhao, Jin Zhang*",
+    "journal": "Nano Research",
+    "year": 2023,
+    "volume": "16(11)",
+    "pages": "12516-12530",
+    "doi": "10.1007/s12274-023-6173-1",
+    "url": "https://link.springer.com/article/10.1007/s12274-023-6173-1",
+    "pdf": "assets/pdf/xie2023-nano-research.pdf",
+    "citations": 8,
+    "tags": [
+      "CNT",
+      "review"
+    ],
+    "image": "assets/img/pubs/nano-research-2023.png"
+  },
+  {
+    "title": "Highly-defective graphene as a metal-free catalyst for chemical vapor deposition growth of graphene glass",
+    "authors": "Yue Li, Yong Liu, Yunbiao Zhao, Yifan Zhang, Yi Chen, Qining Wang*, Ziqiang Zhao*",
+    "journal": "Carbon",
+    "year": 2022,
+    "volume": "187",
+    "pages": "272-279",
+    "doi": "10.1016/j.carbon.2021.11.023",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0008622321010885",
+    "pdf": "assets/pdf/li2022-carbon.pdf",
+    "citations": 7,
+    "tags": [
+      "graphene",
+      "CVD",
+      "catalyst"
+    ],
+    "image": "assets/img/pubs/carbon-2022.png"
+  },
+  {
+    "title": "Ion implantation assisted synthesis of graphene on various dielectric substrates",
+    "authors": "**Yunbiao Zhao**, **Yue Li**, Yi Chen, Yuhan Chen, Danqing Zhou, Ziqiang Zhao*",
+    "journal": "Nano Research",
+    "year": 2021,
+    "volume": "14",
+    "pages": "1280-1286",
+    "doi": "10.1007/s12274-020-3106-0",
+    "url": "https://link.springer.com/article/10.1007/s12274-020-3106-0",
+    "pdf": "assets/pdf/zhao2021-nano-research.pdf",
+    "citations": 11,
+    "tags": [
+      "graphene",
+      "ion implantation"
+    ],
+    "image": "assets/img/pubs/nano-research-2021.png"
+  },
+  {
+    "title": "A graphite enclosure assisted synthesis of high-quality patterned graphene on 6H-SiC by ion implantation",
+    "authors": "Yuhan Chen, Yunbiao Zhao, Dong Han, Dongpo Fu, Yi Chen, Danqing Zhou, Yue Li, Xu Wang*, Ziqiang Zhao*",
+    "journal": "Carbon",
+    "year": 2021,
+    "volume": "172",
+    "pages": "353-359",
+    "doi": "10.1016/j.carbon.2020.10.030",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0008622320309519",
+    "pdf": "assets/pdf/chen2021-carbon.pdf",
+    "citations": 11,
+    "tags": [
+      "graphene",
+      "ion implantation"
+    ],
+    "image": "assets/img/pubs/carbon-2021.png"
+  },
+  {
+    "title": "Growth mechanism of transfer-free graphene synthesized from different carbon sources and verified by ion implantation",
+    "authors": "Yi Chen, Yunbiao Zhao, Danqing Zhou, Yue Li, Qining Wang*, Ziqiang Zhao*",
+    "journal": "Journal of Applied Physics",
+    "year": 2021,
+    "volume": "130(10)",
+    "doi": "10.1063/5.0058524",
+    "url": "https://pubs.aip.org/aip/jap/article/130/10/105105/157862",
+    "pdf": "assets/pdf/chen2021-jap.pdf",
+    "citations": 2,
+    "tags": [
+      "graphene",
+      "CVD"
+    ],
+    "image": "assets/img/pubs/jap-2021.png"
+  },
+  {
+    "title": "Direct synthesis of single-layer graphene films on quartz substrate by a nanoparticle-assisted method",
+    "authors": "Yue Li, Yunbiao Zhao, Yi Chen, Yuhan Chen, Danqing Zhou, Ziqiang Zhao*",
+    "journal": "Applied Surface Science",
+    "year": 2020,
+    "volume": "529",
+    "pages": "147082",
+    "doi": "10.1016/j.apsusc.2020.147082",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0169433220318390",
+    "pdf": "assets/pdf/li2020-appl-surf-sci.pdf",
+    "citations": 21,
+    "tags": [
+      "graphene",
+      "synthesis"
+    ],
+    "image": "assets/img/pubs/appl-surf-sci-2020.png"
+  },
+  {
+    "title": "A facile approach to direct growth of layer-tunable graphene on Ge substrates",
+    "authors": "Yunbiao Zhao, Dong Han, Xu Wang, Zhaoyi Hu, Yi Chen, Yuhan Chen, Danqing Zhou, Yue Li, EG Fu*, Ziqiang Zhao*",
+    "journal": "Carbon",
+    "year": 2019,
+    "volume": "153",
+    "pages": "776-782",
+    "doi": "10.1016/j.carbon.2019.07.060",
+    "url": "https://www.sciencedirect.com/science/article/pii/S000862231930716X",
+    "pdf": "assets/pdf/zhao2019-carbon.pdf",
+    "citations": 10,
+    "tags": [
+      "graphene",
+      "CVD"
+    ],
+    "image": "assets/img/pubs/carbon-2019.png"
+  }
+]

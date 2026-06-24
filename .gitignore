@@ -1,0 +1,12 @@
+# OS / editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+
+# temp figure/montage artifacts (tools/figure.py scratch)
+assets/img/pubs/_*
+_at/
