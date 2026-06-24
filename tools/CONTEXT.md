@@ -26,6 +26,8 @@ Yue Li's (李越) personal academic homepage. al-folio–inspired, clean academi
   the `authors` string: trailing `*` = corresponding; `**…**` = co-first (entry shows
   `(co-first)` when `**Yue Li**` is wrapped); `Yue Li` auto-highlighted; BibTeX strips
   markers. `highlight:true` → shown on home. `image`/`pdf` are repo-relative or http.
+  Optional `award` (e.g. "ESI Highly Cited Paper", "Editors' Highlights") renders as a
+  small badge on the venue line, on both the home and publications pages.
 - **Blog**: one folder per post — `blog/<slug>/index.md` + its images in the same
   folder, referenced `![](fig.jpg)`. `app.js` rewrites those to `blog/<slug>/…`.
   `data/blog.json` holds metadata (slug/title/date/summary/tags).
