@@ -145,7 +145,7 @@
     "url": "https://arxiv.org/abs/2512.16151",
     "pdf": "https://arxiv.org/pdf/2512.16151",
     "citations": 0,
-    "highlight": true,
+    "highlight": false,
     "tags": [
       "AI",
       "CNT",
@@ -178,6 +178,7 @@
     "url": "https://pubs.acs.org/doi/10.1021/acsnano.6c02968",
     "pdf": "assets/pdf/li2026-acs-nano.pdf",
     "citations": 0,
+    "highlight": true,
     "tags": [
       "ion implantation",
       "battery"
