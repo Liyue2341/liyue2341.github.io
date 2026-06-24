@@ -1,6 +1,10 @@
 [
   {
     "date": "2026",
+    "html": "Our paper <a href=\"https://onlinelibrary.wiley.com/doi/10.1002/smll.74324\" target=\"_blank\" rel=\"noopener noreferrer\"><em>Implanting Atomically Dispersed Fe and Mo Sites into 3D Scaffolds: A Scalable Route to Bifunctional Water Splitting Electrocatalysts</em></a> is published in <strong>Small</strong>. Ion implantation anchors atomically dispersed Fe and Mo single atoms across 3D CNT/nickel-foam scaffolds at up to 8-inch scale; the bifunctional electrodes drive an anion-exchange-membrane electrolyzer at 500 mA cm⁻² and 1.66 V with over 100 h of stable operation."
+  },
+  {
+    "date": "2026",
     "html": "Our paper <a href=\"https://pubs.acs.org/doi/10.1021/acsnano.6c02968\" target=\"_blank\" rel=\"noopener noreferrer\"><em>Subsurface Vacancy Engineering Enables Atomically Clean and Oxidation-Resistant Copper Interfaces for Anode-Free Lithium Metal Batteries</em></a> is accepted in <strong>ACS Nano</strong>. Ion implantation strips the native oxide from copper foil and seeds subsurface vacancies that keep the interface atomically clean and oxidation-resistant, reaching 98.8% Coulombic efficiency over 600 cycles in anode-free cells."
   },
   {

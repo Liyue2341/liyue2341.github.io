@@ -1,5 +1,21 @@
 [
   {
+    "title": "Implanting Atomically Dispersed Fe and Mo Sites into 3D Scaffolds: A Scalable Route to Bifunctional Water Splitting Electrocatalysts",
+    "image": "assets/img/pubs/small-2026.png",
+    "authors": "Yang Xu, Yue Li*, Yunbiao Zhao, Xiner Chen, Jin Zhang, Xueting Feng*, Ziqiang Zhao*",
+    "journal": "Small",
+    "year": 2026,
+    "pages": "e74324",
+    "doi": "10.1002/smll.74324",
+    "url": "https://onlinelibrary.wiley.com/doi/10.1002/smll.74324",
+    "pdf": "assets/pdf/xu2026-small.pdf",
+    "citations": 0,
+    "tags": [
+      "catalyst",
+      "ion implantation"
+    ]
+  },
+  {
     "title": "Artificial Intelligence for Materials Science: Transforming Research Paradigms",
     "image": "assets/img/pubs/chemrev-2026.png",
     "authors": "Yue Li, Shurui Wang, Jianping Wang, Liu Qian*, Jin Zhang*",
@@ -77,6 +93,7 @@
     "pdf": "assets/pdf/li2025-matter.pdf",
     "citations": 50,
     "highlight": true,
+    "award": "ESI Highly Cited Paper",
     "tags": [
       "AI",
       "CNT",
@@ -96,6 +113,7 @@
     "pdf": "assets/pdf/xie2025-nat-commun.pdf",
     "citations": 17,
     "highlight": true,
+    "award": "Editors' Highlights",
     "tags": [
       "CNT",
       "catalyst",

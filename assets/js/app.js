@@ -92,12 +92,13 @@
     const cite = pub.citations ? `<span class="pub-cite">cited ${pub.citations}</span>` : "";
     const af = (pub.tags || []).some((t) => /April Fools/i.test(t)) ? ` <span class="af-badge">🎭 April Fools'</span>` : "";
     const cf = /\*\*Yue Li\*\*/.test(pub.authors) ? ` <span class="cf-note">(co-first)</span>` : "";
+    const aw = pub.award ? ` <span class="award-badge">${esc(pub.award)}</span>` : "";
     return `<article class="pub">
       ${pubThumb(pub)}
       <div class="pub-main">
         <p class="pub-title"><a href="${href}" target="_blank" rel="noopener noreferrer">${esc(pub.title)}</a></p>
         <p class="pub-authors">${fmtAuthors(pub.authors)}</p>
-        <p class="pub-venue">${esc(venue(pub))}${cf}${af}</p>
+        <p class="pub-venue">${esc(venue(pub))}${cf}${af}${aw}</p>
         <div class="pub-btns">
           ${pdfBtn(pub)}
           ${pubLinks(pub)}
