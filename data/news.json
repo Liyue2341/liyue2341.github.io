@@ -1,7 +1,7 @@
 [
   {
     "date": "2026",
-    "html": "Our paper <a href=\"https://pubs.acs.org/doi/10.1021/acsnano.6c02968\" target=\"_blank\" rel=\"noopener noreferrer\"><em>Subsurface Vacancy Engineering Enables Atomically Clean and Oxidation-Resistant Copper Interfaces for Anode-Free Lithium Metal Batteries</em></a> is accepted in <strong>ACS Nano</strong>. Implanting copper ions into commercial Cu foil removes the native oxide and seeds subsurface vacancies that trap oxygen, keeping the current-collector interface atomically clean and oxidation-resistant; the engineered interface sustains a 98.8% Coulombic efficiency over 600 cycles in anode-free cells."
+    "html": "Our paper <a href=\"https://pubs.acs.org/doi/10.1021/acsnano.6c02968\" target=\"_blank\" rel=\"noopener noreferrer\"><em>Subsurface Vacancy Engineering Enables Atomically Clean and Oxidation-Resistant Copper Interfaces for Anode-Free Lithium Metal Batteries</em></a> is accepted in <strong>ACS Nano</strong>. Ion implantation strips the native oxide from copper foil and seeds subsurface vacancies that keep the interface atomically clean and oxidation-resistant, reaching 98.8% Coulombic efficiency over 600 cycles in anode-free cells."
   },
   {
     "date": "2026",
@@ -9,10 +9,10 @@
   },
   {
     "date": "2025",
-    "html": "<a href=\"https://www.cell.com/matter/abstract/S2590-2385%2824%2900582-4\" target=\"_blank\" rel=\"noopener noreferrer\"><em>Transforming the synthesis of carbon nanotubes with machine learning models and automation</em></a> published in <strong>Matter</strong>. We pair machine-learning models with an automated growth platform to steer carbon-nanotube synthesis, turning manual trial-and-error into a data-driven loop."
+    "html": "<a href=\"https://www.cell.com/matter/abstract/S2590-2385%2824%2900582-4\" target=\"_blank\" rel=\"noopener noreferrer\"><em>Transforming the synthesis of carbon nanotubes with machine learning models and automation</em></a> published in <strong>Matter</strong> and named an ESI Highly Cited Paper. We pair machine-learning models with an automated growth platform to steer carbon-nanotube synthesis, turning manual trial-and-error into a data-driven loop."
   },
   {
     "date": "2025",
-    "html": "<a href=\"https://www.nature.com/articles/s41467-024-55515-0\" target=\"_blank\" rel=\"noopener noreferrer\"><em>Nano-seeding catalysts for wafer-scale horizontally aligned carbon nanotube arrays</em></a> published in <strong>Nature Communications</strong>. A nano-seeding catalyst design grows high-density, horizontally aligned carbon-nanotube arrays that stay uniform across a full wafer."
+    "html": "<a href=\"https://www.nature.com/articles/s41467-024-55515-0\" target=\"_blank\" rel=\"noopener noreferrer\"><em>Nano-seeding catalysts for wafer-scale horizontally aligned carbon nanotube arrays</em></a> published in <strong>Nature Communications</strong> and featured in the journal's Editors' Highlights. A nano-seeding catalyst design grows high-density, horizontally aligned carbon-nanotube arrays that stay uniform across a full wafer."
   }
 ]
