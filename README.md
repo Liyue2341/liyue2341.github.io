@@ -2,7 +2,7 @@
 
 Clean-academic homepage (al-folio–inspired) for **Yue Li (李越)**. Pure static —
 plain HTML/CSS/vanilla JS, no build step. Content lives in JSON + Markdown so the
-site deploys to GitHub Pages as-is, and `research.sciscale.org` can fetch the same data.
+site deploys to GitHub Pages as-is.
 
 ## Single source of truth
 
@@ -77,8 +77,7 @@ python -m http.server 8099 --directory .
 
 ## Deploy (GitHub Pages — personal user site)
 
-This is a **user site** on the personal account (kept here on purpose — it's the
-pure-academic side, not under the studio org). Push to the `main` branch of
+This is a **user site** on the personal account. Push to the `main` branch of
 `Liyue2341/liyue2341.github.io` and it serves at `https://liyue2341.github.io`.
 
 ```bash
@@ -92,16 +91,7 @@ Then **Settings → Pages → Deploy from a branch → `main` / root**. `.nojeky
 tells Pages to serve files as-is (skip Jekyll). Paths are relative, so it serves
 correctly at the domain root.
 
-## Consuming the data from research.sciscale.org
+## Data is portable
 
-Content is plain JSON, so the Next.js site can read the **same files** at build time
-instead of duplicating them:
-
-```
-https://raw.githubusercontent.com/Liyue2341/liyue2341.github.io/main/data/publications.json
-https://raw.githubusercontent.com/Liyue2341/liyue2341.github.io/main/data/profile.json
-```
-
-`data/publications.json` uses the same shape as the existing
-`research/data/publications.ts`, so the mapping is one-to-one — update once here,
-both sites stay in sync.
+Content is plain JSON under `data/`, so another site can consume the same files at
+build time (via the public raw file URLs) instead of duplicating them.

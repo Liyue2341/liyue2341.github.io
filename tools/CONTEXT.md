@@ -5,16 +5,16 @@ don't re-derive everything. (Named `tools/CONTEXT.md`, not `AGENTS.md`/`CLAUDE.m
 so other tools' auto-generated files don't clobber it.)
 
 ## What it is
-Yue Li's (李越) personal academic homepage — the "pure academic" identity, kept on
-the personal GitHub account (NOT the sciscale-studio org). al-folio–inspired, clean
-academic. **Pure static: hand-written HTML/CSS/vanilla JS, NO build step, NO framework.**
+Yue Li's (李越) personal academic homepage. al-folio–inspired, clean academic.
+**Pure static: hand-written HTML/CSS/vanilla JS, NO build step, NO framework.**
 
 ## Architecture
 - Pages: `index.html` (about + news + selected pubs + notebook + ...), `publications.html`,
   `blog.html`, `post.html?slug=…`, `404.html`. Shared header/footer is duplicated in each.
 - All logic in `assets/js/app.js` (one file). Pages opt in via `<body data-page="…">`.
 - **Content is data, rendered client-side**: `data/*.json` + `blog/<slug>/index.md`.
-  `app.js` fetches and renders them. So `research.sciscale.org` can read the same JSON.
+  `app.js` fetches and renders them. The JSON is portable, so another site can
+  consume the same files instead of duplicating them.
 - Styling: `assets/css/style.css`, CSS variables, light/dark via `[data-theme]` +
   `prefers-color-scheme` + a FOUC-guard inline script in each `<head>`.
 - Deploy: push to `Liyue2341/liyue2341.github.io`, GitHub Pages serves at the domain
@@ -54,7 +54,6 @@ referenced-files check; run before every push). See `MAINTENANCE.md` for usage.
 - **Publisher scraping**: ACS/Cell/Elsevier 403 plain curl; a browser User-Agent gets
   some `og:image`/HTML, but corresponding-author emails are often JS-injected (not in
   static HTML) — ask the user for those.
-- Cross-session continuity also lives in the user's memory: `project_liyue_github_site.md`.
 
 ## Picking up
 Read this + `MAINTENANCE.md` + skim `data/publications.json` and `app.js`, run

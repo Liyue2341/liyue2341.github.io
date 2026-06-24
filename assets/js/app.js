@@ -134,7 +134,6 @@
     if (L.scholar) it.push(`<a href="${L.scholar}" target="_blank" rel="noopener noreferrer" aria-label="Google Scholar">${ICON.scholar}<span class="label">Google Scholar</span></a>`);
     if (L.github) it.push(`<a href="${L.github}" target="_blank" rel="noopener noreferrer" aria-label="GitHub">${ICON.github}<span class="label">GitHub</span></a>`);
     if (L.orcid) it.push(`<a href="${L.orcid}" target="_blank" rel="noopener noreferrer" aria-label="ORCID">${ICON.orcid}<span class="label">ORCID</span></a>`);
-    if (L.research) it.push(`<a href="${L.research}" target="_blank" rel="noopener noreferrer" aria-label="research.sciscale.org">${ICON.globe}<span class="label">research.sciscale.org</span></a>`);
     return it.join("");
   }
 
