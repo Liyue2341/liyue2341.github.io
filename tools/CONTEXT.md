@@ -54,6 +54,11 @@ referenced-files check; run before every push). See `MAINTENANCE.md` for usage.
 - **Publisher scraping**: ACS/Cell/Elsevier 403 plain curl; a browser User-Agent gets
   some `og:image`/HTML, but corresponding-author emails are often JS-injected (not in
   static HTML) — ask the user for those.
+- **Two dark-mode blocks**: theme colors live in BOTH `:root[data-theme="dark"]` (manual
+  toggle) AND `@media (prefers-color-scheme: dark)` (OS auto). Change a themed value in
+  BOTH or the auto-dark path silently drifts — that's how a stale pink accent survived
+  the switch to teal. `--thumb-fill` follows the same rule (white behind figures in dark
+  so transparent PNGs don't show the dark page through their removed-white margins).
 
 ## Picking up
 Read this + `MAINTENANCE.md` + skim `data/publications.json` and `app.js`, run

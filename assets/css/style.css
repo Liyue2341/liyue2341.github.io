@@ -1,6 +1,6 @@
 /* =========================================================================
    Yue Li — personal academic site
-   al-folio-inspired clean academic. Warm paper + ink + oxblood.
+   al-folio-inspired clean academic. Warm paper + ink + teal.
    Light/dark via [data-theme] + prefers-color-scheme.
    ========================================================================= */
 
@@ -24,6 +24,7 @@
   --tag-bg: #efe7d6;
   --tag-text: #6c6453;
   --code-bg: #f4efe2;
+  --thumb-fill: transparent;
   --shadow: 0 1px 2px rgba(60, 50, 30, 0.05), 0 8px 28px rgba(60, 50, 30, 0.07);
   --shadow-lg: 0 10px 40px rgba(40, 30, 15, 0.18);
 
@@ -49,6 +50,7 @@
   --tag-bg: #2a241b;
   --tag-text: #b2aa98;
   --code-bg: #201c14;
+  --thumb-fill: #fff;
   --shadow: 0 1px 2px rgba(0, 0, 0, 0.4), 0 10px 30px rgba(0, 0, 0, 0.4);
   --shadow-lg: 0 12px 44px rgba(0, 0, 0, 0.6);
 }
@@ -63,12 +65,13 @@
     --text: #ece6da;
     --text-soft: #b2aa98;
     --text-faint: #7e7666;
-    --accent: #e7929b;
-    --accent-hover: #f2abb2;
-    --accent-tint: #2c2019;
+    --accent: #6cba9f;
+    --accent-hover: #88ccb4;
+    --accent-tint: #18261f;
     --tag-bg: #2a241b;
     --tag-text: #b2aa98;
     --code-bg: #201c14;
+    --thumb-fill: #fff;
     --shadow: 0 1px 2px rgba(0, 0, 0, 0.4), 0 10px 30px rgba(0, 0, 0, 0.4);
     --shadow-lg: 0 12px 44px rgba(0, 0, 0, 0.6);
   }
@@ -265,7 +268,7 @@ pre code { font-size: 0.82rem; color: var(--text); }
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 .pub:hover .pub-thumb { transform: translateY(-3px); box-shadow: 0 6px 12px rgba(40, 32, 16, 0.08), 0 16px 34px rgba(40, 32, 16, 0.16); }
-.pub-thumb img { width: 100%; height: 150px; object-fit: contain; display: block; border-radius: 6px; }
+.pub-thumb img { width: 100%; height: 150px; object-fit: contain; display: block; border-radius: 6px; background: var(--thumb-fill); }
 .pub-title { font-weight: 600; font-size: 1.03rem; margin: 0 0 0.25rem; line-height: 1.4; }
 .pub-title a { color: var(--text); }
 .pub-title a:hover { color: var(--accent); }
