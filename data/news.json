@@ -1,6 +1,10 @@
 [
   {
     "date": "2026",
+    "html": "Version 2 of our preprint <a href=\"https://arxiv.org/abs/2604.26703\" target=\"_blank\" rel=\"noopener noreferrer\"><em>Discovering physical mechanisms from experiment–simulation mismatches</em></a> is now on <strong>arXiv</strong>. eXplainable DFT (XDFT) is a self-evolving agent that turns mismatch-to-mechanism tracing into an executable search, formalizing candidate mechanisms as executable hypotheses and distilling past trajectories into priors for later searches. Across 112 source-audited cases where standard calculations predict a metal but experiments find a semiconductor, it resolved 105 with evidence-supported mechanisms within a single-GPU envelope; after 60 cases the resolving mechanism ranked among the first three hypotheses for 80% of held-out cases, up from 7% under the initial expert prior."
+  },
+  {
+    "date": "2026",
     "html": "Our paper <a href=\"https://onlinelibrary.wiley.com/doi/10.1002/smll.74324\" target=\"_blank\" rel=\"noopener noreferrer\"><em>Implanting Atomically Dispersed Fe and Mo Sites into 3D Scaffolds: A Scalable Route to Bifunctional Water Splitting Electrocatalysts</em></a> is published in <strong>Small</strong>. Ion implantation anchors atomically dispersed Fe and Mo single atoms across 3D CNT/nickel-foam scaffolds at up to 8-inch scale; the bifunctional electrodes drive an anion-exchange-membrane electrolyzer at 500 mA cm⁻² and 1.66 V with over 100 h of stable operation."
   },
   {

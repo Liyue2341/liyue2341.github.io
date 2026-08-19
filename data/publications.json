@@ -34,9 +34,9 @@
     ]
   },
   {
-    "title": "A self-evolving agent for explainable diagnosis of DFT-experiment band-gap mismatch",
+    "title": "Discovering physical mechanisms from experiment–simulation mismatches",
     "image": "assets/img/pubs/dft-agent-2026.png",
-    "authors": "Yue Li, Bijun Tang",
+    "authors": "Yue Li, Penghui Yang, Yushan Xiao, Zhonghan Zhang, Jianguo Huang, Yuhao Lu, Cuntai Guan, Bo An, Bijun Tang*, Zheng Liu*",
     "journal": "arXiv",
     "year": 2026,
     "arxiv": "2604.26703",
@@ -47,7 +47,8 @@
     "tags": [
       "AI",
       "DFT",
-      "agent"
+      "agent",
+      "mechanism discovery"
     ]
   },
   {
