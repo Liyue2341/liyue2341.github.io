@@ -1,7 +1,7 @@
 [
   {
     "date": "2026",
-    "html": "Version 2 of our preprint <a href=\"https://arxiv.org/abs/2604.26703\" target=\"_blank\" rel=\"noopener noreferrer\"><em>Discovering physical mechanisms from experiment–simulation mismatches</em></a> is now on <strong>arXiv</strong>. eXplainable DFT (XDFT) is a self-evolving agent that turns mismatch-to-mechanism tracing into an executable search, formalizing candidate mechanisms as executable hypotheses and distilling past trajectories into priors for later searches. Across 112 source-audited cases where standard calculations predict a metal but experiments find a semiconductor, it resolved 105 with evidence-supported mechanisms within a single-GPU envelope; after 60 cases the resolving mechanism ranked among the first three hypotheses for 80% of held-out cases, up from 7% under the initial expert prior."
+    "html": "Our preprint <a href=\"https://arxiv.org/abs/2604.26703\" target=\"_blank\" rel=\"noopener noreferrer\"><em>Discovering physical mechanisms from experiment–simulation mismatches</em></a> is out on <strong>arXiv</strong>. XDFT is a self-evolving agent that searches from mismatch to mechanism and turns each solved case into a prior for the next; across 112 cases where calculations predict a metal but experiments find a semiconductor, it resolved 105 with evidence-supported mechanisms."
   },
   {
     "date": "2026",
